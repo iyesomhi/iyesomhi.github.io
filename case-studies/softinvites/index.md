@@ -31,9 +31,10 @@ Requirements do not stop at the point where a BRD or FRD is written. Real users 
 | Analytics | Scan analysis and admin reporting specified | Full event, guest, check-in, RSVP and communication analytics |
 
 *See the full requirements-to-product mapping in the complete BRD/FRD document.*
+![Product evolution timeline](evolution-timeline.svg)
 
 ## Evidence
-
+![End-to-end product journey](product-journey.svg)
 - Anonymised product overview / system map
 - RSVP workflow diagram
 - Event-to-check-in process flow
